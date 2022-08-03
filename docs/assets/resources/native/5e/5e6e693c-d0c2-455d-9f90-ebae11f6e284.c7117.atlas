@@ -1,0 +1,13 @@
+
+Fx04.png
+size: 95,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect-5
+  rotate: false
+  xy: 2, 2
+  size: 91, 133
+  orig: 95, 137
+  offset: 2, 2
+  index: -1

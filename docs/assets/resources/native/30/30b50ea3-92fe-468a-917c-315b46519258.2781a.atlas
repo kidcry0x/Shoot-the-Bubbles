@@ -1,0 +1,13 @@
+
+Fx02.png
+size: 503,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect-1
+  rotate: false
+  xy: 2, 2
+  size: 499, 218
+  orig: 608, 232
+  offset: 79, 7
+  index: -1

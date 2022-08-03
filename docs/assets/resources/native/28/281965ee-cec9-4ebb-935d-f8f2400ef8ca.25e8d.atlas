@@ -1,0 +1,13 @@
+
+Fx03.png
+size: 136,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect-3
+  rotate: false
+  xy: 2, 2
+  size: 132, 136
+  orig: 136, 139
+  offset: 2, 2
+  index: -1
