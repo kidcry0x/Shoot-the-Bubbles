@@ -12,7 +12,7 @@
 
 ## Play Game
 
-- [**Tap to Play**](https://kidcry0x.github.io/GameProject_Shoot-the-Bubbles/)
+- [**Tap to Play**](https://kidcry0x.github.io/Shoot-the-Bubbles/)
 
 ## Link Game
 
